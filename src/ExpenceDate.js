@@ -7,6 +7,7 @@ function ExpenceDate(props){
         <div>{month}</div>
         <div>{year}</div>
         <div>{day}</div>
+        
     </div>
     );
 }
