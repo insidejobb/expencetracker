@@ -1,5 +1,5 @@
 
-function ExpenceDetails(props){
+const ExpenceDetails=(props)=>{
     
     return (
 

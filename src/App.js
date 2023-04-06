@@ -3,7 +3,7 @@ import ExpenseItem from "./components/Expenceitem";
 
 
 
-function App() {
+const App=() =>{
   const expenses = [
     {
       id: 'e1',
